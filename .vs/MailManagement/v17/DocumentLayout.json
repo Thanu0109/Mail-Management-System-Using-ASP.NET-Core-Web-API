@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\controllers\\departmentscontroller_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:controllers\\departmentscontroller_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\controllers\\mailscontroller_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:controllers\\mailscontroller_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\models\\department_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:models\\department_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\models\\mail_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:models\\mail_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\models\\mailstatus_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:models\\mailstatus_d_bit_22_0015.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|c:\\users\\user\\downloads\\assignment\\web\\d-bit-22-0015- gdt thanuja\\d-bit-22-0015- gdt thanuja\\mailmanagement\\mailmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06B3B2AE-3788-4FC9-B1D3-8795E3C4899D}|MailManagement.csproj|solutionrelative:mailmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miyuru S Priyakantha\\source\\repos\\MailManagement\\Models\\Department_D_BIT_22_0013.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController_D_BIT_22_0015.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Controllers\\DepartmentsController_D_BIT_22_0015.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController_D_BIT_22_0015.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Controllers\\DepartmentsController_D_BIT_22_0015.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController_D_BIT_22_0015.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:25:46.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mail_D_BIT_22_0015.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\Mail_D_BIT_22_0015.cs",
+              "RelativeDocumentMoniker": "Models\\Mail_D_BIT_22_0015.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\Mail_D_BIT_22_0015.cs",
+              "RelativeToolTip": "Models\\Mail_D_BIT_22_0015.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:10:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department_D_BIT_22_0015.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\Department_D_BIT_22_0015.cs",
+              "RelativeDocumentMoniker": "Models\\Department_D_BIT_22_0015.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\Department_D_BIT_22_0015.cs",
+              "RelativeToolTip": "Models\\Department_D_BIT_22_0015.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:10:34.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailsController_D_BIT_22_0015.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Controllers\\MailsController_D_BIT_22_0015.cs",
+              "RelativeDocumentMoniker": "Controllers\\MailsController_D_BIT_22_0015.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Controllers\\MailsController_D_BIT_22_0015.cs",
+              "RelativeToolTip": "Controllers\\MailsController_D_BIT_22_0015.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:14:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:34:10.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailStatus_D_BIT_22_0015.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\MailStatus_D_BIT_22_0015.cs",
+              "RelativeDocumentMoniker": "Models\\MailStatus_D_BIT_22_0015.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Models\\MailStatus_D_BIT_22_0015.cs",
+              "RelativeToolTip": "Models\\MailStatus_D_BIT_22_0015.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:11:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:37:21.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\MailManagement.csproj",
+              "RelativeDocumentMoniker": "MailManagement.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Assignment\\web\\D-BIT-22-0015- GDT Thanuja\\D-BIT-22-0015- GDT Thanuja\\MailManagement\\MailManagement.csproj",
+              "RelativeToolTip": "MailManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T07:40:47.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department_D_BIT_22_0013.cs",
+              "DocumentMoniker": "C:\\Users\\Miyuru S Priyakantha\\source\\repos\\MailManagement\\Models\\Department_D_BIT_22_0013.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Miyuru S Priyakantha\\source\\repos\\MailManagement\\Models\\Department_D_BIT_22_0013.cs",
+              "ToolTip": "C:\\Users\\Miyuru S Priyakantha\\source\\repos\\MailManagement\\Models\\Department_D_BIT_22_0013.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Miyuru S Priyakantha\\source\\repos\\MailManagement\\Models\\Department_D_BIT_22_0013.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:04:31.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
